@@ -95,16 +95,16 @@ const aList = new ArrayList();
 
 ;
 
-// console.log(aList.init([54, 2, 3, 4, 5]))
-// console.log(aList.getSize())
-// console.log(aList.myPush(4));
-// console.log(aList.myPop());
-// console.log(aList.myShift());
-// console.log(aList.myUnShift("z"));
-// console.log(aList.myToString());
-// console.log(aList.myClear())
+console.log(aList.init([54, 2, 3, 4, 5]))
+console.log(aList.getSize())
+console.log(aList.myPush(4));
+console.log(aList.myPop());
+console.log(aList.myShift());
+console.log(aList.myUnShift("z"));
+console.log(aList.myToString());
+console.log(aList.myClear())
 console.log(aList.myReverse())
-// console.log(aList.mySlice(0,1))
+console.log(aList.mySlice(0,1))
 
 
 module.exports = ArrayList
